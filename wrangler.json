@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "ygo-ar-d1",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "7a26a040-54aa-4d10-b39e-618c47d1a5ed",
+      "database_name": "yugioh_d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
